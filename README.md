@@ -1,4 +1,4 @@
-All of the codes in the file are only less than 300 lines. So it is small but powerful.Everyone know vim script can read this plugin and change it for yourself. That is vim's power ,do it yourself. I use it work well for ubuntu 12.04 and old winxp machine, it may work well on mac X too. 
+The vim script is small but powerful.Everyone know vim script can read this plugin and change it for yourself. That is vim's power ,do it yourself. I use it work well for ubuntu 12.04 and old winxp machine, it may work well on mac X too. 
 
 install details
 just put clang_pro.vim in your ~/.vim/plugin 
